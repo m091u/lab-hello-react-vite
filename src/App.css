@@ -1,0 +1,46 @@
+
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(16, 16, 39);
+}
+
+.navBar img{
+  height:100%;
+  width:50px;
+  margin: 15px;
+}
+
+.headerp {
+  max-width: 40%; 
+  margin-bottom: 50px;
+}
+
+.header{
+  background-color: rgb(16, 16, 39);
+  margin: 0px;
+  height: 50%;
+  color: white;
+  padding-top: 70px;
+  text-align: left;
+  padding-left: 50px;
+  font-size: 1.8em;
+}
+
+.cards{
+  height: 400px;
+  margin: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+  padding: 10px; 
+}
+
+button{
+  height:60px;
+  width: 130px;
+  font-size: 0.8em;
+  margin-bottom: 20px;
+}
+
